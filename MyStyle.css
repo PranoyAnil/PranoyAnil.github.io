@@ -15,8 +15,8 @@ h1 {
 }
 
 #logo {
-    position: absolute;
-    left: 8px
+    position: relative;
+    left: 8px;
 }
 footer {
     font-family:"Trebuchet MS", Helvetica, sans-serif;
